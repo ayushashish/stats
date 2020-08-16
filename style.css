@@ -1,0 +1,47 @@
+.container-fluid {
+    padding: 3% 7%;
+}
+
+#header {
+    background-color: black;
+}
+
+.titles {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.5;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+#contents {
+    padding: 1% 5%;
+    background-color: black;
+}
+
+.card-bottom {
+    padding-bottom: 2rem;
+}
+
+#dislikes-count {
+    padding-top: 1rem;
+    color: red;
+    font-size: 3.4rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#likes-count {
+    padding-top: 1rem;
+    color: green;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#footer {
+    padding-top: 2%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
