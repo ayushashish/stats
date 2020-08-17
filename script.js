@@ -15,7 +15,7 @@ function getData() {
 
   count = count+1;
 
-  if (count==5) {
+  if (count==10) {
     clearInterval(myVar);
   }
 }
